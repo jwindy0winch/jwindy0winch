@@ -10,15 +10,15 @@ Hi, I am a Cyber Defense student at Davenport University, an advocate for digita
 
 
 ## 🌍 Areas of Interest
-International Cybersecurity Cooperation – Strengthening cross-border digital security
-Data Privacy & Ethics – Advocating for strong cybersecurity laws and ethical data practices
-Cyber Forensics & Threat Intelligence – Investigating digital threats and securing evidence
-Technology & Human Rights – Protecting digital freedoms and online safety
+* International Cybersecurity Cooperation – Strengthening cross-border digital security
+* Data Privacy & Ethics – Advocating for strong cybersecurity laws and ethical data practices
+* Cyber Forensics & Threat Intelligence – Investigating digital threats and securing evidence
+* Technology & Human Rights – Protecting digital freedoms and online safety
 
 ## 🛠️ Skills & Tools
-Programming & Scripting: Python, Bash
-Cybersecurity Tools: Wireshark, Autopsy, Cisco IOS, MFT Parsing, Virtualization (VMware, VirtualBox, UTM)
-Networking & Systems: Linux (Kali), Windows Server, Active Directory
+* Programming & Scripting: Bash, CLI, HTML, Python, JavaScript, R, SQL
+* Cybersecurity Tools: Wireshark, Autopsy, Cisco IOS, MFT Parsing, Virtualization (VMware, VirtualBox, UTM)
+* Networking & Systems: Linux (Kali), Windows Server, Active Directory
 
 ###💡 Open to collaborations on cybersecurity projects, research, and advocacy work!
 <!---
