@@ -1,5 +1,4 @@
-# A first-level heading 
-👋 Welcome to My GitHub!
+# A first-level heading 👋 Welcome to My GitHub!
 
 🛡️ Cybersecurity | 🔍 Digital Forensics | 🌍 Privacy & Human Rights
 
