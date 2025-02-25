@@ -1,5 +1,4 @@
-# A first-level heading # 👋 Welcome to My GitHub!
-
+# 👋 Welcome to My GitHub!
 🛡️ Cybersecurity | 🔍 Digital Forensics | 🌍 Privacy & Human Rights
 
 Hi, I am a cybersecurity professional and advocate for digital privacy, human rights, and international cybersecurity cooperation. I have an Applied Associate's Degree in Cybersecurity and am currently pursuing a Bachelor of Science in Cybersecurity. My focus is on protecting data, securing infrastructure, and ensuring ethical technology use.
